@@ -1,0 +1,31 @@
+
+.palette{
+    width: 300px;
+    background-color: gray;
+    text-align: justify;
+    color: white;
+    border-radius: 6px;
+    overflow: hidden;
+    text-align: center;
+    margin-block-end: 10px
+}
+.paletteSize{
+    height: 25%;
+}
+button{
+    background-color: white;
+}
+h1, h2 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+    text-transform: uppercase;
+}
+.sizesmall{
+    font-weight: 100;
+}
+p{
+    font-family: 'Roboto', sans-serif;
+}
+.color-select{
+    font-family: 'Roboto', sans-serif;
+}
